@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- My name is Marian Farah, and I am a farm girl from Syria 🇸🇾
+- I am passionate about using science & AI to help create a more sustainable future 🌍 🌏 🌎
+- I have a PhD in Bayesian Statistics, and I work in the AI space
+- Why Frogstar World B? [I am a Hitchhiker's Guide nerd 😄](https://hitchhikers.fandom.com/wiki/Frogstar_World_B)
+
 <!--
 **frogstar-world-b/frogstar-world-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
