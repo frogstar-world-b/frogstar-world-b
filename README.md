@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Marian Farah. I grew up in Syria 🇸🇾, and I currently live in the USA 🇺🇸
+- My name is Marian Farah. I am based in the San Francisco Bay Area.
 - I have a PhD in Bayesian Statistics, and I work in the AI space
 - I am passionate about using science and AI to help create a more sustainable future 🌍 🌏 🌎
 - Why [Frogstar World B](https://hitchhikers.fandom.com/wiki/Frogstar_World_B)? Because it is home to the [Total Perspective Vortex](https://hitchhikers.fandom.com/wiki/Total_Perspective_Vortex) AND [Milliways](https://hitchhikers.fandom.com/wiki/Milliways) 😄
